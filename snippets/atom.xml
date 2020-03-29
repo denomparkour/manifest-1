@@ -18,8 +18,8 @@
           fetch="https://gitlab.com" />
 
   <!-- CodeAurora additions -->
-  <project path="device/qcom/sepolicy" name="device_qcom_sepolicy" remote="atom" />
-  <project path="device/qcom/sepolicy-legacy-um" name="device_qcom_sepolicy-legacy-um" remote="atom" />
+  <project path="device/qcom/sepolicy" name="device_qcom_sepolicy" remote="pixel" />
+  <project path="device/qcom/sepolicy-legacy-um" name="device_qcom_sepolicy-legacy-um" remote="pixel" />
   <project path="hardware/qcom-caf/common" name="hardware_qcom-caf_common" remote="pixel">
     <!-- add guard for AOSP hardware/qcom dir -->
     <linkfile src="os_pickup_aosp.mk" dest="hardware/qcom/Android.mk" />
@@ -81,7 +81,7 @@
     <linkfile src="bootstrap.bash" dest="bootstrap.bash" />
   </project>
   <project path="build/blueprint" name="build_blueprint" remote="pixel" />
-  <project path="bootable/recovery" name="bootable_recovery" remote="atom" />
+  <project path="bootable/recovery" name="bootable_recovery" remote="pixel" />
   <project path="development" name="development" remote="pixel" />
   <project path="device/custom/sepolicy" name="device_custom_sepolicy" remote="atom" />
   <project path="manifest" name="manifest" remote="atom" />
