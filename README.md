@@ -24,3 +24,5 @@ $ lunch aosp_$device-userdebug
 # Build the code
 $ mka bacon -jX
 ```
+
+To apply for official builds click <a href="https://github.com/AtomOrganization/manifest/blob/ten/apply_for_official.md">HERE</a> for more info
