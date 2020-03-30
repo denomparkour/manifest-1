@@ -122,6 +122,7 @@
   <project path="packages/apps/Recorder" name="packages_apps_Recorder" remote="atom" />
   <project path="packages/providers/DownloadProvider" name="packages_providers_DownloadProvider" remote="pixel" />
   <project path="packages/providers/MediaProvider" name="packages_providers_MediaProvider" remote="pixel" />
+  <project path="packages/resources/devicesettings-custom" name="packages_resources_devicesettings-custom" remote="pixel" />
   <project path="packages/services/BuiltInPrintService" name="packages_services_BuiltInPrintService" remote="pixel" />
   <project path="packages/services/Telecomm" name="packages_services_Telecomm" remote="atom" />
   <project path="packages/services/Telephony" name="packages_services_Telephony" remote="atom" />
