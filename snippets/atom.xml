@@ -132,6 +132,7 @@
   <!-- External repos -->
   <project path="external/libhevc" name="external_libhevc" remote="pixel" />
   <project path="external/tinycompress" name="external_tinycompress" remote="pixel" />
+  <project path="external/airbnb-lottie" name="external_airbnb-lottie" remote="atom" />
 
   <!-- System Repos -->
   <project path="system/apex" name="system_apex" remote="pixel" />
