@@ -128,6 +128,7 @@
   <project path="packages/services/Telephony" name="packages_services_Telephony" remote="atom" />
 
   <!-- External repos -->
+  <project path="external/libcxx" name="external_libcxx" remote="pixel" />
   <project path="external/libhevc" name="external_libhevc" remote="pixel" />
   <project path="external/motorola/faceunlock" name="external_motorola_faceunlock" remote="atom" />
   <project path="external/tinycompress" name="external_tinycompress" remote="pixel" />
