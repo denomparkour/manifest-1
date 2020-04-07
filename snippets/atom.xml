@@ -10,9 +10,9 @@
           fetch="https://github.com/AtomOrganization"
           revision="ten" />
   
-   <remote name="pixel-devices"
-          fetch="https://github.com/PixelExperience-Devices"
-          revision="ten" />
+   <remote name="atom-devices"
+          fetch="https://github.com/AtomOrganization"
+          revision="ten-q" />
 
   <remote name="pixel-gitlab"
           fetch="https://gitlab.com/PixelExperience"
