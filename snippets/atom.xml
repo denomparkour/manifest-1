@@ -119,7 +119,7 @@
   <project path="packages/apps/AtomSettings" name="packages_apps_Atom" remote="atom" />
   <project path="packages/apps/Longshot" name="packages_apps_Longshot" remote="atom" />
   <!--project path="packages/apps/Updates" name="packages_apps_Updates" remote="pixel" /-->
-  <project path="packages/apps/Recorder" name="packages_apps_Recorder" remote="atom" />
+  <!--project path="packages/apps/Recorder" name="packages_apps_Recorder" remote="atom" /-->
   <project path="packages/providers/DownloadProvider" name="packages_providers_DownloadProvider" remote="pixel" />
   <project path="packages/providers/MediaProvider" name="packages_providers_MediaProvider" remote="pixel" />
   <project path="packages/resources/devicesettings-custom" name="packages_resources_devicesettings-custom" remote="pixel" />
