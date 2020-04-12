@@ -20,3 +20,9 @@ The information below guides you to fullfill the requirements for join AtomOS
 4. Link to the dependencies used(device tree, kernel, vendor). </br>
 
 Mail the following information to us at atom_org@protonmail.com
+
+<h3>Supported Devices</h3>
+1. Lavender (Redmi Note 7/7s)
+2. Laurel_Sprout (MI A3)
+3. Cedric (Moto G5)
+4. Potter (Moto G5 Plus)
