@@ -1,5 +1,7 @@
 [![Download ATOM](https://sourceforge.net/sflogo.php?type=16&group_id=3199102)](https://sourceforge.net/p/atom-os-project/)
 
+[![TG chat](https://img.shields.io/badge/Support-Telegram-%23e52c5f.svg?style=for-the-badge&logo=telegram&&labelColor=121217)](https://t.me/atomosofficial)
+
 
 # ATOM #
 
