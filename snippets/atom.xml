@@ -134,6 +134,7 @@
   <project path="external/skia" name="external_skia" remote="pixel" />
   <project path="external/tinycompress" name="external_tinycompress" remote="atom" />
   <project path="external/airbnb-lottie" name="external_airbnb-lottie" remote="atom" />
+  <project path="external/asus/stitchimage" name="external_asus_stitchimage" remote="atom" />
 
   <!-- System Repos -->
   <project path="system/apex" name="system_apex" remote="pixel" />
