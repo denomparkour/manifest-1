@@ -10,7 +10,7 @@
 ```bash
 
 # Initialize local repository
-repo init -u https://github.com/AtomOrganization/manifest -b ten
+repo init -u https://github.com/AtomOrganization/manifest -b ten-aosp
 
 # Sync
 repo sync -c -j$(nproc --all) --force-sync --no-clone-bundle --no-tags
