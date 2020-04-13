@@ -12,7 +12,7 @@
 # GAPPS
 repo init -u https://github.com/AtomOrganization/manifest -b ten
 
-# Non-GAPPS 
+# Non-GAPPS (BETA)
 repo init -u https://github.com/AtomOrganization/manifest -b ten-aosp
 
 # Sync
