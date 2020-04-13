@@ -22,7 +22,7 @@ The information below guides you to fullfill the requirements for join AtomOS
 Mail the following information to us at atom_org@protonmail.com
 
 <h3>Supported Devices</h3>
-1. Lavender (Redmi Note 7/7s)
-2. Laurel_Sprout (MI A3)
-3. Cedric (Moto G5)
-4. Potter (Moto G5 Plus)
+1. Lavender (Redmi Note 7/7s). </br>
+2. Laurel_Sprout (MI A3). </br>
+3. Cedric (Moto G5). </br>
+4. Potter (Moto G5 Plus). </br>
