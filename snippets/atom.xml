@@ -63,7 +63,7 @@
 
   <!-- Framework repos -->
   <project path="frameworks/av" name="frameworks_av" remote="atom" />
-  <project path="frameworks/base" name="frameworks_base" remote="atom" />
+  <project path="frameworks/base" name="frameworks_base" remote="atom-aosp" />
   <project path="frameworks/native" name="frameworks_native" remote="atom" />
   <project path="frameworks/opt/net/ims" name="frameworks_opt_net_ims" remote="atom" />
   <project path="frameworks/opt/net/wifi" name="frameworks_opt_net_wifi" remote="atom" />
@@ -120,7 +120,7 @@
   <project path="packages/apps/Settings" name="packages_apps_Settings" remote="atom" />
   <project path="packages/apps/Snap" name="packages_apps_Snap" remote="pixel" />
   <project path="packages/apps/Traceur" name="packages_apps_Traceur" remote="pixel" />
-  <project path="packages/apps/AtomSettings" name="packages_apps_Atom" remote="atom" />
+  <project path="packages/apps/AtomSettings" name="packages_apps_Atom" remote="atom-aosp" />
   <!--project path="packages/apps/Browser" name="packages_apps_Browser" remote="atom-aosp" /-->
   <project path="packages/apps/MusicFX" name="packages_apps_MusicFX" remote="atom-aosp" />
   <project path="packages/apps/Messaging" name="packages_apps_Messaging" remote="atom-aosp" />
