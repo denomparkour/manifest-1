@@ -27,3 +27,4 @@ Mail the following information to us at atom_org@protonmail.com
 3. Moto G5 (cedric) </br>
 4. Moto G5 Plus (potter) </br>
 5. Xiaomi Redmi 5 (rosy) </br>
+6. Xiaomi Redmi Note 6 Pro (tulip) </br>
