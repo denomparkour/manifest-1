@@ -799,4 +799,5 @@
   <!-- Add all PixelExperience repos -->
   <include name="snippets/atom.xml" />
 
+  <include name="snippets/pixel.xml" />
 </manifest>
