@@ -76,4 +76,7 @@
   <project path="system/apex" name="system_apex" remote="pixel" />
   <project path="system/extras" name="system_extras" remote="pixel" />
   
+    <!-- External repos -->
+    <project path="external/skia" name="external_skia" remote="pixel" />
+  
 </manifest>
